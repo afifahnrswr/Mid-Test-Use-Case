@@ -11,6 +11,7 @@ The dataset is credited to Hipel an Mcleod, 1994.
 **Background** : The Dataset provides the annual water usage in Baltimore from 1885 to 1963, or 79
 years of data.
 The values are in the units of liters per capita per day, and there are 79 observations.
+<br>
 **Objective** : Create a python script for the Use Case below, please upload the script after you finish.
 The Problem is to predict annual water usage.
 
@@ -30,6 +31,7 @@ The Problem is to determine the best model and give the reason.
 Tony who has profession as a broker wants to predict apartment price in Victoria based on living
 area environment and apartment conservation status. Determine the best model to predict and
 redefine new conservation variable in 3 level, A = 1A, B = 2A, C = 2B and 3A.
+<br>
 **Instructions** :
 Download the dataset as a CSV file and place it in your current working directory with the filename
 "victoria.csv".
