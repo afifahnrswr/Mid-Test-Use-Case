@@ -6,7 +6,9 @@ Dataset : Annual Water Usage in Baltimore.
 You can download it here
 <br>
 https://drive.google.com/open?id=1axM3gfGxQq4T0wuwP51DVMQAecVFmpxL
+<br>
 The dataset is credited to Hipel an Mcleod, 1994.
+<br>
 <br>
 **Background** : The Dataset provides the annual water usage in Baltimore from 1885 to 1963, or 79
 years of data.
@@ -22,6 +24,7 @@ Dataset : Apartment Price in Victoria.
 You can download it here.
 <br>
 https://drive.google.com/open?id=1j8TdXtCnEQlqn2esDbiuPay01pDooS-w
+<br>
 <br>
 **Background** : The Dataset provides living area and conservation status.
 There are 218 observations and 16 variables.
@@ -42,6 +45,7 @@ Dataset : Titanic dataset.
 You can download it here.
 <br>
 https://drive.google.com/open?id=15IyT1ODuDKgZb8WN6iG64hFJRZWJTSAz
+<br>
 <br>
 **Background** : The dataset contains data for 887 of the real Titanic passengers. Each row represents
 one person. The columns describe different attributes about the person including whether they
