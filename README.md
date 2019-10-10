@@ -1,6 +1,6 @@
 # Mid-Test-Use-Case
 
-# QUESTION 1
+## QUESTION 1
 Dataset : Annual Water Usage in Baltimore.
 You can download it here
 https://drive.google.com/open?id=1axM3gfGxQq4T0wuwP51DVMQAecVFmpxL
@@ -12,7 +12,7 @@ Objective : Create a python script for the Use Case below, please upload the scr
 The Problem is to predict annual water usage.
 
 
-# QUESTION 2
+## QUESTION 2
 Dataset : Apartment Price in Victoria.
 You can download it here.
 https://drive.google.com/open?id=1j8TdXtCnEQlqn2esDbiuPay01pDooS-w
@@ -27,7 +27,7 @@ Instructions :
 Download the dataset as a CSV file and place it in your current working directory with the filename
 "victoria.csv".
 
-# QUESTION 3
+## QUESTION 3
 Dataset : Titanic dataset.
 You can download it here.
 https://drive.google.com/open?id=15IyT1ODuDKgZb8WN6iG64hFJRZWJTSAz
